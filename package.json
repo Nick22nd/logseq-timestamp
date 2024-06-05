@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Nick22nd",
   "main": "index.html",
-  "description": "📖 record current timestamp with alt + shift + d :)",
+  "description": "Record current timestamp with alt + shift + d :)",
   "license": "MIT",
   "logseq": {
     "id": "logseq-timestamp",
